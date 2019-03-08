@@ -68,7 +68,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-Project uses the [SemVer](http://semver.org/) for versioning (python version of [node-semver](https://github.com/isaacs/node-semver)). For the versions available, see the [tags on this repository](https://github.com/gmaslak/CYS-repository/tags). 
+Project uses the [SemVer](http://semver.org/) for versioning (a Python module for semantic versionin). For the versions available, see the [tags on this repository](https://github.com/gmaslak/CYS-repository/tags). 
 
 ## Authors
 
