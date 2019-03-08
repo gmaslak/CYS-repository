@@ -58,6 +58,8 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
+* Kenneth Reitz sample (repository has been built based on the Kenneth Reitz recommended sample)
+
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
@@ -70,10 +72,15 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 Project uses the [SemVer](http://semver.org/) for semantic versioning. For the versions available, see the [tags on this repository](https://github.com/gmaslak/CYS-repository/tags). 
 
-## Authors
+## Author
 
 **Grzegorz Maślak**
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+<br/><br/>
+## Polish description
+
+Lekka, wygodna aplikacja Python, umożliwiająca katalogowanie wiadomości e-mail (wraz z załącznikami) według nadawców wiadomości.
