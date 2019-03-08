@@ -72,7 +72,7 @@ Project uses the SemVer [SemVer](http://semver.org/) for versioning (python vers
 
 ## Authors
 
-* **Grzegorz Maslak**
+**Grzegorz Maślak**
 
 ## License
 
