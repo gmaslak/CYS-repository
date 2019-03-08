@@ -1,4 +1,4 @@
-# Project Title: Catalog Your Senders (CYS)
+# Catalog Your Senders (CYS-Py)
 
 A lightweight Python Application for the Processing, Storing and Automatic Catalog your e-mails.
 
