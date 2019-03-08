@@ -82,6 +82,6 @@ Project uses the [SemVer](http://semver.org/) for semantic versioning. For the v
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 <br/><br/>
-## Polish description
+## Opis projektu (PL)
 
 Lekka, wygodna aplikacja Python, umożliwiająca katalogowanie wiadomości e-mail (wraz z załącznikami) według nadawców wiadomości.
