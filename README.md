@@ -84,4 +84,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 <br/><br/>
 ## Opis projektu (PL)
 
-Lekka, wygodna aplikacja Python umożliwiająca utworzenie katalogu wiadomości e-mail, w którym wiadomości pogrupowane zostają według ich nadawców.
+Lekka, wygodna aplikacja Python umożliwiająca utworzenie katalogu wiadomości e-mail, w którym wiadomości pogrupowane zostają według nadawców.
