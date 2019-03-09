@@ -3,10 +3,6 @@ Catalog Your Senders (CYS-Py)
 
 A lightweight Python Application for the Processing, Storing and Automatic Catalog your e-mails.
 
-
-
-
-
 |pypi| |unix_build| |coverage| |gitter|
 
 Getting Started
@@ -88,7 +84,6 @@ License
 ----------------------
 Project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-<br/><br/>
 Opis projektu (PL)
 ----------------------
 
