@@ -63,7 +63,7 @@ Add additional notes about how to deploy this on a live system
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-CYS Repository has been built based on the Kenneth Reitz recommended sample
+This repository has been built based on the Kenneth Reitz recommended (structure) sample.
 
 ## Contributing
 
