@@ -1,16 +1,16 @@
 Catalog Your Senders (CYS-Py)
-########################################
+####
 
 A lightweight Python Application for the Processing, Storing and Automatic Catalog your e-mails.
 
 |pypi| |unix_build| |coverage| |gitter|
 
 Getting Started
-----------------------
+----
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 Prerequisites
-----------------------
+----
 What things you need to install the software and how to install them
 
 ```
@@ -18,7 +18,7 @@ Give examples
 ```
 
 Installing
-----------------------
+----
 A step by step series of examples that tell you how to get a development env running
 
 Say what the step will be
@@ -36,7 +36,7 @@ until finished
 End with an example of getting some data out of the system or using it for a little demo
 
 Running the tests
-----------------------
+----
 Explain how to run the automated tests for this system
 
 ### Break down into end to end tests
@@ -56,11 +56,11 @@ Give an example
 ```
 
 Deployment
-----------------------
+----
 Add additional notes about how to deploy this on a live system
 
 Built With
-----------------------
+----
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
@@ -69,23 +69,23 @@ Built With
 Project repository has been built based on the Kenneth Reitz recommended (structure) sample.
 
 Contributing
-----------------------
+----
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 Versioning
-----------------------
+----
 Project uses the [SemVer](http://semver.org/) for semantic versioning. For the versions available, see the [tags on this repository](https://github.com/gmaslak/CYS-repository/tags). 
 
 Author
-----------------------
+----
 **Grzegorz Maślak**
 
 License
-----------------------
-Project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+----
+Project is licensed under the MIT License - see the `LICENSE <https://github.com/gmaslak/cys/blob/master/LICENSE>`_ file for details.
 
 Opis projektu (PL)
-----------------------
+----
 
 Lekka, wygodna aplikacja Python umożliwiająca utworzenie katalogu wiadomości e-mail, w którym wiadomości pogrupowane zostają według nadawców.
 
