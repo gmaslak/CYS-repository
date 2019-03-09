@@ -63,7 +63,7 @@ Add additional notes about how to deploy this on a live system
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-This repository has been built based on the Kenneth Reitz recommended (structure) sample.
+Project repository has been built based on the Kenneth Reitz recommended (structure) sample.
 
 ## Contributing
 
@@ -79,7 +79,7 @@ Project uses the [SemVer](http://semver.org/) for semantic versioning. For the v
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 <br/><br/>
 ## Opis projektu (PL)
