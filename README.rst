@@ -70,11 +70,11 @@ Project repository has been built based on the Kenneth Reitz recommended (struct
 
 Contributing
 ----
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read `CONTRIBUTING <https://gist.github.com/PurpleBooth/b24679402957c63ec426>`_ for details on our code of conduct, and the process for submitting pull requests to us.
 
 Versioning
 ----
-Project uses the [SemVer](http://semver.org/) for semantic versioning. For the versions available, see the [tags on this repository](https://github.com/gmaslak/CYS-repository/tags). 
+Project uses the `SemVer <http://semver.org/>`_ for semantic versioning. For the versions available, see the `tags on this repository <https://github.com/gmaslak/CYS-repository/tags>`_. 
 
 Author
 ----
