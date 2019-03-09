@@ -102,6 +102,6 @@ Lekka, wygodna aplikacja Python umożliwiająca utworzenie katalogu wiadomości 
     :target: http://travis-ci.org/jakubroztocil/httpie
     :alt: Build status of the master branch on Mac/Linux
 
-.. |gitter| image:: https://img.shields.io/gitter/room/jkbrzt/httpie.svg?style=flat-square
-    :target: https://gitter.im/jkbrzt/httpie
+.. |gitter| image:: https://img.shields.io/gitter/room/gmaslak/cys.svg
+    :target: https://gitter.im/gmaslak/cys
     :alt: Chat on Gitter
