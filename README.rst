@@ -1,21 +1,28 @@
-# Catalog Your Senders (CYS-Py)
+Catalog Your Senders (CYS-Py)
+########################################
 
 A lightweight Python Application for the Processing, Storing and Automatic Catalog your e-mails.
 
-## Getting Started
 
+
+
+
+|pypi| |unix_build| |coverage| |gitter|
+
+Getting Started
+----------------------
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
-
+Prerequisites
+----------------------
 What things you need to install the software and how to install them
 
 ```
 Give examples
 ```
 
-### Installing
-
+Installing
+----------------------
 A step by step series of examples that tell you how to get a development env running
 
 Say what the step will be
@@ -32,8 +39,8 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
-
+Running the tests
+----------------------
 Explain how to run the automated tests for this system
 
 ### Break down into end to end tests
@@ -52,12 +59,12 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
-
+Deployment
+----------------------
 Add additional notes about how to deploy this on a live system
 
-## Built With
-
+Built With
+----------------------
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
@@ -65,23 +72,41 @@ Add additional notes about how to deploy this on a live system
 
 Project repository has been built based on the Kenneth Reitz recommended (structure) sample.
 
-## Contributing
-
+Contributing
+----------------------
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
-
+Versioning
+----------------------
 Project uses the [SemVer](http://semver.org/) for semantic versioning. For the versions available, see the [tags on this repository](https://github.com/gmaslak/CYS-repository/tags). 
 
-## Author
-
+Author
+----------------------
 **Grzegorz Maślak**
 
-## License
-
+License
+----------------------
 Project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 <br/><br/>
-## Opis projektu (PL)
+Opis projektu (PL)
+----------------------
 
 Lekka, wygodna aplikacja Python umożliwiająca utworzenie katalogu wiadomości e-mail, w którym wiadomości pogrupowane zostają według nadawców.
+
+
+.. |pypi| image:: https://img.shields.io/pypi/v/httpie.svg?style=flat-square&label=latest%20stable%20version
+    :target: https://pypi.python.org/pypi/httpie
+    :alt: Latest version released on PyPi
+
+.. |coverage| image:: https://img.shields.io/coveralls/jakubroztocil/httpie/master.svg?style=flat-square&label=coverage
+    :target: https://coveralls.io/r/jakubroztocil/httpie?branch=master
+    :alt: Test coverage
+
+.. |unix_build| image:: https://img.shields.io/travis/jakubroztocil/httpie/master.svg?style=flat-square&label=unix%20build
+    :target: http://travis-ci.org/jakubroztocil/httpie
+    :alt: Build status of the master branch on Mac/Linux
+
+.. |gitter| image:: https://img.shields.io/gitter/room/jkbrzt/httpie.svg?style=flat-square
+    :target: https://gitter.im/jkbrzt/httpie
+    :alt: Chat on Gitter
