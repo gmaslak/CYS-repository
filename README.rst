@@ -100,8 +100,8 @@ Aplikacja Python umożliwiająca tworzenie katalogu wiadomości e-mail, w który
     :target: https://pypi.python.org/pypi/httpie
     :alt: Latest version released on PyPi
 
-.. |coverage| image:: https://img.shields.io/coveralls/jakubroztocil/httpie/master.svg?style=flat-square&label=coverage
-    :target: https://coveralls.io/r/jakubroztocil/httpie?branch=master
+.. |coverage| image:: https://img.shields.io/coveralls/github/gmaslak/cys.svg
+    :target: https://coveralls.io/r/gmaslak/cys?branch=master
     :alt: Test coverage
 
 .. |unix_build| image:: https://img.shields.io/travis/jakubroztocil/httpie/master.svg?style=flat-square&label=unix%20build
