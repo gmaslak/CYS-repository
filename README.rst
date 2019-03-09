@@ -84,11 +84,19 @@ License
 ----
 Project is licensed under the MIT License - see the `LICENSE <https://github.com/gmaslak/cys/blob/master/LICENSE>`_ file for details.
 
+|license|
+
 Opis projektu (PL)
 ----
 
 Lekka, wygodna aplikacja Python umożliwiająca utworzenie katalogu wiadomości e-mail, w którym wiadomości pogrupowane zostają według nadawców.
 
+
+
+
+.. |license| image:: https://img.shields.io/github/license/gmaslak/cys.svg
+    :target: https://github.com/gmaslak/cys/blob/master/LICENSE
+    :alt: Project License
 
 .. |pypi| image:: https://img.shields.io/pypi/v/httpie.svg?style=flat-square&label=latest%20stable%20version
     :target: https://pypi.python.org/pypi/httpie
